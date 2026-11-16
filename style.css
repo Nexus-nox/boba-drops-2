@@ -1,9 +1,9 @@
 img {
-    width: 200px;
+    width: 500px;
 }
 body {
     text-align: center;
     font-family: 'arial';
-    background: pink;
-    color: maroon
+    background: teal;
+    color: white
 }
